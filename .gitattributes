@@ -1,0 +1,4 @@
+movies.txt filter=lfs diff=lfs merge=lfs -text
+rating.txt filter=lfs diff=lfs merge=lfs -text
+readme.txt filter=lfs diff=lfs merge=lfs -text
+users.txt filter=lfs diff=lfs merge=lfs -text
